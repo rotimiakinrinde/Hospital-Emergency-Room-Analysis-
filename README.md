@@ -29,7 +29,7 @@ A running total of daily patient volume against average wait time provides a cle
 
 5. **Patient Satisfaction - Score Analysis:**
 
-   A satisfaction score chart highlights fluctuations in patient feedback. Lower scores correspond to longer wait times and high ER volume days. The trend analysis identifies a threshold; when wait times exceed 20 minutes, satisfaction scores begin to decline significantly.
+   A satisfaction score chart highlights fluctuations in patient feedback. Lower scores correspond to longer wait times and high ER volume days. The trend analysis identifies a threshold when wait times exceed 20 minutes, satisfaction scores begin to decline significantly.
 
 6. **Department Referrals - Specialist Allocation:**
 
