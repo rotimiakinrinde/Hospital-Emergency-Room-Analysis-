@@ -16,7 +16,7 @@ In this report, I present a comprehensive analysis that aims to enhance operatio
 
 1. **Monthly View - Patient Trends:**
 
-   Using an interactive bar chart, the dashboard tracks ER visits by month, revealing peak admission times and seasonal patterns. Evening and weekend visits show a sharp increase, highlighting the need for targeted resource allocation. Age      distribution analysis shows that elderly patients (65+) and children under 10 make up the largest proportion of ER visits. This suggests a focus on geriatric and pediatric care improvements.
+   Using an interactive charts, the dashboard tracks Emergency Room visits by month, revealing peak admission times and seasonal patterns. Evening and weekend visits show a sharp increase, highlighting the need for targeted resource allocation. Age      distribution analysis shows that elderly patients (65+) and children under 10 make up the largest proportion of ER visits. This suggests a focus on geriatric and pediatric care improvements.
    ![Dashboard 1](https://github.com/user-attachments/assets/689f0846-5065-4632-a7ee-f707aab4421a)
 
 
